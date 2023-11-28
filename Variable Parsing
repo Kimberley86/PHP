@@ -1,0 +1,12 @@
+<?php
+// Fill in the blanks in the code below:
+  $noun = "monkey";
+  $adjective = "funny";
+  $verb = "run";
+
+  echo "The world's most beloved $noun was very $adjective and loved to $verb every single day.";
+
+
+//Fix the code below and uncomment it:
+
+ echo "I have always been obsessed with ${noun}s. I'm ${adjective}s. I'm always ${verb}s.";
