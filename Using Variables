@@ -1,0 +1,9 @@
+<?php
+// Write your code below:
+  
+  $name = "Kimberley";
+  $language = "PHP";
+
+  echo "My name is " . $name . ".";
+  
+  echo "\n Today I am learning " . $language . ".";
