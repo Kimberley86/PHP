@@ -1,0 +1,16 @@
+<?php
+// Write your code below:
+
+function calculateArea($num_one, $num_two)
+{
+return $num_one * $num_two;
+};
+
+echo calculateArea(12, 3);
+
+function calculateVolume($num_one, $num_two, $num_three)
+{
+  return $num_one * $num_two * $num_three;
+};
+
+echo calculateVolume(12, 3, 2);
